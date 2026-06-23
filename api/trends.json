@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-23T18:29:29.515204+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-06-23T21:37:11.086752+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
+        {
+          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2044875348719005741",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 21时37分]"
+        },
         {
           "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
           "url": "https://wallstreetcn.com/articles/3775170",
@@ -20,24 +32,13 @@
           "time_info": "[03时19分 ~ 07时13分]"
         },
         {
-          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
-          "url": "https://www.zhihu.com/question/2044875348719005741",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 18时29分]"
-        },
-        {
           "title": "DeepSeek新部门疯狂招人，负责人否认“不招外国人”",
           "url": "https://wallstreetcn.com/livenews/3123327",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         }
@@ -108,6 +109,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "洗脑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "老家瓦房泥巴墙太洗脑了",
+          "url": "https://www.douyin.com/hot/2544778",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 21时37分]"
         }
       ]
     }
