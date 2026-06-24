@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T04:29:02.659823+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-06-25T06:09:02.507180+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         }
@@ -56,6 +56,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抽象",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "科隆Major决赛抽象合集",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A7%91%E9%9A%86Major%E5%86%B3%E8%B5%9B%E6%8A%BD%E8%B1%A1%E5%90%88%E9%9B%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 06时09分]"
         }
       ]
     },
