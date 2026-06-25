@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T00:16:36.134639+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-26T03:03:07.327253+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -19,20 +19,20 @@
           "time_info": "00时16分"
         },
         {
-          "title": "谷歌(GOOG.O)：今天，我们还面向安卓平台推出了全新的Google财务应用。从本周起，我们将在全新的Google Finance中向全球推出“投资组合”功能。今年晚些时候还将推出iOS版应用。",
-          "url": "https://flash.jin10.com/detail/20260626000257368800",
-          "source": "金十数据",
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 03时03分]"
         },
         {
-          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
-          "url": "https://www.zhihu.com/question/2053015352347293676",
-          "source": "知乎",
+          "title": "谷歌(GOOG.O)：今天，我们还面向安卓平台推出了全新的Google财务应用。从本周起，我们将在全新的Google Finance中向全球推出“投资组合”功能。今年晚些时候还将推出iOS版应用。",
+          "url": "https://flash.jin10.com/detail/20260626000257368800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
