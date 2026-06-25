@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T11:28:47.106279+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2026-06-25T15:35:05.971949+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "谷歌前CEO批中国AI开源",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
         },
         {
           "title": "STT与塔塔通信德里数据中心起火：客户担忧数十年数据丢失，谷歌云受波及",
@@ -70,11 +81,12 @@
           "ranks": [
             29,
             30,
-            21
+            21,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时08分 ~ 11时28分]"
+          "appearance_count": 7,
+          "time_info": "[06时08分 ~ 15时35分]"
         }
       ]
     },
