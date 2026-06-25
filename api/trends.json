@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T06:09:02.507180+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-06-25T08:00:35.189867+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
@@ -68,11 +68,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%A7%91%E9%9A%86Major%E5%86%B3%E8%B5%9B%E6%8A%BD%E8%B1%A1%E5%90%88%E9%9B%86",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时08分 ~ 06时09分]"
+          "appearance_count": 4,
+          "time_info": "[06时08分 ~ 08时00分]"
         }
       ]
     },
@@ -87,11 +88,12 @@
           "ranks": [
             29,
             20,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 08时00分]"
         }
       ]
     },
