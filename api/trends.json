@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T06:04:00.501995+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-06-27T07:56:08.587460+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
     {
@@ -90,7 +90,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
@@ -102,8 +102,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时56分]"
         },
         {
           "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
@@ -113,8 +113,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时56分]"
+        },
+        {
+          "title": "DeepSeek新晋独角兽第一",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%96%B0%E6%99%8B%E7%8B%AC%E8%A7%92%E5%85%BD%E7%AC%AC%E4%B8%80%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 07时56分]"
         },
         {
           "title": "DeepSeek招聘薪资待遇",
