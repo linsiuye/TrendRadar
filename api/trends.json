@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T05:55:38.419969+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-06-28T06:55:46.036735+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时55分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
           "url": "https://wallstreetcn.com/articles/3775676",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时55分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
@@ -37,11 +38,12 @@
           "ranks": [
             5,
             13,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 04时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 06时55分]"
         }
       ]
     },
@@ -54,22 +56,24 @@
           "url": "https://wallstreetcn.com/articles/3775650",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时55分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
           "url": "https://wallstreetcn.com/articles/3775663",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时55分]"
         }
       ]
     }
