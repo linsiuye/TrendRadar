@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T12:15:24.509644+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-06-29T17:23:36.759102+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
@@ -32,6 +32,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 提出的 DSpark 推理加速方案？",
+          "url": "https://www.zhihu.com/question/2054243716655854373",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "娱乐",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国妇女评网游娱乐化女性安全",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E8%AF%84%E7%BD%91%E6%B8%B8%E5%A8%B1%E4%B9%90%E5%8C%96%E5%A5%B3%E6%80%A7%E5%AE%89%E5%85%A8%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
+          "title": "恋与深空底线不该被娱乐化",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%BA%95%E7%BA%BF%E4%B8%8D%E8%AF%A5%E8%A2%AB%E5%A8%B1%E4%B9%90%E5%8C%96%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         }
       ]
     },
@@ -54,19 +93,19 @@
       ]
     },
     {
-      "keyword_group": "娱乐",
+      "keyword_group": "搞笑",
       "match_count": 1,
       "titles": [
         {
-          "title": "恋与深空底线不该被娱乐化",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%BA%95%E7%BA%BF%E4%B8%8D%E8%AF%A5%E8%A2%AB%E5%A8%B1%E4%B9%90%E5%8C%96%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "灿如繁星这么搞笑吗",
+          "url": "https://www.douyin.com/hot/2551522",
+          "source": "抖音",
           "ranks": [
-            8
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时15分"
+          "time_info": "17时23分"
         }
       ]
     }
