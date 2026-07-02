@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T03:09:54.133174+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-07-03T04:55:26.776768+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 04时55分]"
         },
         {
           "title": "为什么现在 DeepSeek 快速模式豆包化？",
@@ -25,22 +26,24 @@
           "source": "知乎",
           "ranks": [
             19,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 04时55分]"
         },
         {
           "title": "出现性能下降问题 DeepSeek回应",
           "url": "https://www.baidu.com/s?wd=%E5%87%BA%E7%8E%B0%E6%80%A7%E8%83%BD%E4%B8%8B%E9%99%8D%E9%97%AE%E9%A2%98+DeepSeek%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 04时55分]"
         }
       ]
     },
@@ -71,11 +74,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 04时55分]"
         }
       ]
     }
