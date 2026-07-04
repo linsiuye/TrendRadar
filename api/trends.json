@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T14:19:12.099417+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-07-04T17:15:05.051306+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时59分 ~ 14时19分]"
+          "appearance_count": 5,
+          "time_info": "[10时59分 ~ 17时15分]"
         }
       ]
     },
@@ -32,9 +32,26 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "洗脑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "月薪 1.8 万，房租每月 6000，想住得舒服有错吗？朋友说我被「消费主义洗脑」，该怎么反驳？",
+          "url": "https://www.zhihu.com/question/2023007302307914124",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
         }
       ]
     }
