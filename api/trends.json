@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T21:08:44.292839+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-07-05T23:06:53.714847+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 21时08分]"
+          "appearance_count": 5,
+          "time_info": "[17时35分 ~ 23时06分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -45,11 +46,12 @@
             8,
             11,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 21时08分]"
+          "appearance_count": 7,
+          "time_info": "[14时31分 ~ 23时06分]"
         },
         {
           "title": "上海乐高乐园开业首年：接待游客人次创全球乐高乐园同期纪录，金山文体娱乐收入翻两番",
