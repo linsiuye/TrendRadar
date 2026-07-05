@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T00:56:06.855787+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-06T01:57:26.752009+08:00",
+  "total_titles_processed": 357,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时57分]"
         }
       ]
     },
@@ -29,11 +30,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355906&amp;topic_name=%E7%94%B5%E5%BD%B1%E9%99%A2%E6%B1%82%E7%94%9F%2C%E9%A4%90%E9%A5%AE%E5%A8%B1%E4%B9%90%E4%B8%80%E6%8A%8A%E6%8A%93",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时57分]"
         }
       ]
     }
