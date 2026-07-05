@@ -1,108 +1,39 @@
 {
-  "generated_at": "2026-07-05T23:06:53.714847+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2026-07-06T00:56:06.855787+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时35分 ~ 23时06分]"
-        },
-        {
-          "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
-          "url": "https://flash.jin10.com/detail/20260705000623395800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时57分]"
+          "time_info": "[00时55分 ~ 00时56分]"
         }
       ]
     },
     {
       "keyword_group": "娱乐",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "电影院求生,餐饮娱乐一把抓",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355906&amp;topic_name=%E7%94%B5%E5%BD%B1%E9%99%A2%E6%B1%82%E7%94%9F%2C%E9%A4%90%E9%A5%AE%E5%A8%B1%E4%B9%90%E4%B8%80%E6%8A%8A%E6%8A%93",
           "source": "贴吧",
           "ranks": [
-            8,
-            11,
-            13,
-            14,
-            15
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时31分 ~ 23时06分]"
-        },
-        {
-          "title": "上海乐高乐园开业首年：接待游客人次创全球乐高乐园同期纪录，金山文体娱乐收入翻两番",
-          "url": "https://wallstreetcn.com/livenews/3128963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时32分 ~ 21时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么现在 DeepSeek 快速模式豆包化？",
-          "url": "https://www.zhihu.com/question/2050992107284964141",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时48分 ~ 10时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "洗脑",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "月薪 1.8 万，房租每月 6000，想住得舒服有错吗？朋友说我被「消费主义洗脑」，该怎么反驳？",
-          "url": "https://www.zhihu.com/question/2023007302307914124",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时08分]"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
         }
       ]
     }
