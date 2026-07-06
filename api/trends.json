@@ -1,8 +1,39 @@
 {
-  "generated_at": "2026-07-06T10:37:34.009272+08:00",
-  "total_titles_processed": 767,
+  "generated_at": "2026-07-06T15:03:10.783681+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "娱乐",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "电影院求生,餐饮娱乐一把抓",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355906&amp;topic_name=%E7%94%B5%E5%BD%B1%E9%99%A2%E6%B1%82%E7%94%9F%2C%E9%A4%90%E9%A5%AE%E5%A8%B1%E4%B9%90%E4%B8%80%E6%8A%8A%E6%8A%93",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            18,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 15时03分]"
+        },
+        {
+          "title": "猫眼娱乐(01896.HK)涨超8%，股价重回5港元。",
+          "url": "https://flash.jin10.com/detail/20260706143636205800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
@@ -15,25 +46,6 @@
             2,
             3,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 10时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "娱乐",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "电影院求生,餐饮娱乐一把抓",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355906&amp;topic_name=%E7%94%B5%E5%BD%B1%E9%99%A2%E6%B1%82%E7%94%9F%2C%E9%A4%90%E9%A5%AE%E5%A8%B1%E4%B9%90%E4%B8%80%E6%8A%8A%E6%8A%93",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            18,
-            19
           ],
           "is_new": false,
           "appearance_count": 12,
