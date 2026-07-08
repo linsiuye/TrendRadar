@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T20:15:11.309957+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2026-07-08T23:32:20.823787+08:00",
+  "total_titles_processed": 1597,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 20时15分]"
+          "appearance_count": 4,
+          "time_info": "[20时14分 ~ 23时32分]"
         },
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
@@ -93,7 +93,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "微软在部分应用中以自研AI模型替代OpenAI和Anthropic",
@@ -105,6 +105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+          "url": "https://www.zhihu.com/question/2058166406420460573",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "微软部分应用改用自研AI 替代OpenAI和Anthropic",
