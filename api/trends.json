@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T07:48:00.931166+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-07-08T09:46:09.582256+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,25 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            7
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 09时46分]"
+        },
+        {
+          "title": "DeepSeek被曝自研芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            21,
+            27
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时06分 ~ 07时48分]"
+          "time_info": "[06时52分 ~ 09时46分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -29,18 +43,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时06分 ~ 07时48分]"
-        },
-        {
-          "title": "DeepSeek被曝自研芯片",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时52分 ~ 07时48分]"
         },
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
