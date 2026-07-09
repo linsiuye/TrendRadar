@@ -1,136 +1,61 @@
 {
-  "generated_at": "2026-07-09T21:43:51.983240+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-07-10T00:23:14.064174+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
       "titles": [
         {
-          "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
-          "url": "https://flash.jin10.com/detail/20260709010430451800",
+          "title": "谷歌(GOOG.O)：推出广告主控制功能以披露生成性人工智能的使用；广告上可能会出现标签。",
+          "url": "https://flash.jin10.com/detail/20260710000936587800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：向所有谷歌云客户推出AlphaEvolve人工智能代码优化代理。",
+          "url": "https://flash.jin10.com/detail/20260710000625543800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "00时23分"
         },
         {
-          "title": "OpenAI：今天开始向全球ChatGPT用户推出两个版本的GPT-Live。GPT-Live-1和GPT-Live-1 Mini。",
-          "url": "https://flash.jin10.com/detail/20260709010344704800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "OpenAI：推出GPT-LIVE。",
-          "url": "https://flash.jin10.com/detail/20260709010325337800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
-          "url": "https://www.zhihu.com/question/2058166406420460573",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 06时02分]"
-        },
-        {
-          "title": "OpenAI推出GPT-Live语音模型",
-          "url": "https://wallstreetcn.com/livenews/3130838",
+          "title": "谷歌公司在广告中提高AI透明度。 谷歌在搜索、Youtube广告中新增AI信息披露标签。",
+          "url": "https://wallstreetcn.com/livenews/3131470",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时09分"
-        },
-        {
-          "title": "OpenAI：将扩大与美国政府及盟友在关键防御领域的合作。",
-          "url": "https://flash.jin10.com/detail/20260709043940767800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "OpenAI：发布国家安全原则文件。",
-          "url": "https://flash.jin10.com/detail/20260709043809283800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "00时23分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "文件显示：谷歌正寻求推翻一项印度法院关于其广告平台运营方式的裁决。谷歌辩称印度法院的这项裁决将赋予商标所有者对广告位的垄断权，从而损害消费者权益。",
-          "url": "https://flash.jin10.com/detail/20260709183227356800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "RedVelvet海报疑似Gemini生成",
-          "url": "https://s.weibo.com/weibo?q=RedVelvet%E6%B5%B7%E6%8A%A5%E7%96%91%E4%BC%BCGemini%E7%94%9F%E6%88%90&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2058168270499176758",
-          "source": "知乎",
+          "title": "OpenAI：在与特朗普政府磋商后对GPT-5.6做出多项调整",
+          "url": "https://flash.jin10.com/detail/20260709233707293800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            5
+            16
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 03时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         }
       ]
     }
