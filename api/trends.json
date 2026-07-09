@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T15:58:48.292324+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-07-09T18:52:01.436906+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
@@ -89,6 +89,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "文件显示：谷歌正寻求推翻一项印度法院关于其广告平台运营方式的裁决。谷歌辩称印度法院的这项裁决将赋予商标所有者对广告位的垄断权，从而损害消费者权益。",
+          "url": "https://flash.jin10.com/detail/20260709183227356800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "RedVelvet海报疑似Gemini生成",
+          "url": "https://s.weibo.com/weibo?q=RedVelvet%E6%B5%B7%E6%8A%A5%E7%96%91%E4%BC%BCGemini%E7%94%9F%E6%88%90&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -103,23 +131,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 03时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "RedVelvet海报疑似Gemini生成",
-          "url": "https://s.weibo.com/weibo?q=RedVelvet%E6%B5%B7%E6%8A%A5%E7%96%91%E4%BC%BCGemini%E7%94%9F%E6%88%90&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
         }
       ]
     }
