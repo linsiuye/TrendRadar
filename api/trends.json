@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T12:55:35.370460+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2026-07-11T15:07:06.033681+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
@@ -88,9 +88,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "娱乐",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "杜华回应半个娱乐圈艺人失业",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E5%9B%9E%E5%BA%94%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E8%89%BA%E4%BA%BA%E5%A4%B1%E4%B8%9A%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         }
       ]
     }
