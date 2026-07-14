@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T17:47:22.783367+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-07-14T19:19:38.676569+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 17时47分]"
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 19时19分]"
         },
         {
           "title": "DeepSeek最新一轮融资后，梁文锋身家超越Anthropic达里奥和OpenAI布罗克曼",
@@ -42,11 +43,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            13
+            13,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 17时47分]"
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 19时19分]"
         },
         {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
