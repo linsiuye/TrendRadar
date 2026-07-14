@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T07:44:19.232554+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-07-14T09:26:07.160540+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "魔性",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "姆巴佩补水啦魔性广告背后",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%A1%A5%E6%B0%B4%E5%95%A6%E9%AD%94%E6%80%A7%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 09时26分]"
         }
       ]
     }
