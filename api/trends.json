@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T21:12:35.683939+08:00",
-  "total_titles_processed": 1668,
+  "generated_at": "2026-07-15T23:19:33.370655+08:00",
+  "total_titles_processed": 1793,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 21时12分]"
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 23时19分]"
         },
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -38,11 +38,12 @@
           "source": "微博",
           "ranks": [
             1,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时51分 ~ 21时12分]"
+          "appearance_count": 5,
+          "time_info": "[17时51分 ~ 23时19分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -226,11 +227,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 21时12分]"
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 23时19分]"
         }
       ]
     }
