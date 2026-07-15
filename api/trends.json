@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T19:23:14.155465+08:00",
-  "total_titles_processed": 1520,
+  "generated_at": "2026-07-15T21:12:35.683939+08:00",
+  "total_titles_processed": 1668,
   "failed_sources": [],
   "trends": [
     {
@@ -19,28 +19,30 @@
           "time_info": "[01时04分 ~ 07时43分]"
         },
         {
-          "title": "DeepSeek工资待遇太恐怖了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 19时23分]"
-        },
-        {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
           "ranks": [
             16,
             6,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 19时23分]"
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 21时12分]"
+        },
+        {
+          "title": "DeepSeek工资待遇太恐怖了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 21时12分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -54,6 +56,18 @@
           "time_info": "01时04分"
         },
         {
+          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
+          "url": "https://www.cls.cn/detail/2427193",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时12分]"
+        },
+        {
           "title": "曝DeepSeek计划明年上市",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9DDeepSeek%E8%AE%A1%E5%88%92%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%B8%82",
           "source": "百度热搜",
@@ -64,17 +78,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时42分 ~ 15时09分]"
-        },
-        {
-          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
-          "url": "https://www.cls.cn/detail/2427193",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 19时23分]"
         },
         {
           "title": "DeepSeek启动新融资，首轮落空的投资人再度开抢",
@@ -185,7 +188,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -196,7 +199,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -222,11 +225,12 @@
           "url": "https://www.zhihu.com/question/1903913532988326041",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 19时23分]"
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时12分]"
         }
       ]
     }
