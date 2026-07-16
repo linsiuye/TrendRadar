@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T03:57:24.713372+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2026-07-17T04:49:55.548116+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 03时57分]"
-        },
-        {
-          "title": "纳斯达克100指数跌幅扩大至2%，成分股Nebius集团跌14.2%，闪迪跌12.8%，Rocket Labs跌12.2%，希捷科技跌10.6%，西部数据跌10.2%，Astera Labs跌9.8%，迈威尔科技/美满电子、Lumentum、泰瑞达、英特尔至少跌6.9%，谷歌A跌4.7%。 半导体指数跌5%，存储芯片指数维持大约9%的跌幅。 北美科技软件股指数ETF跌幅重新扩大至0.4%，美股盘初一度跌1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3135254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时57分"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时49分]"
         },
         {
           "title": "谷歌A跌幅扩大至2.7%。",
@@ -42,6 +31,30 @@
           "time_info": "[02时56分 ~ 03时57分]"
         },
         {
+          "title": "纳斯达克100指数跌幅扩大至2%，成分股Nebius集团跌14.2%，闪迪跌12.8%，Rocket Labs跌12.2%，希捷科技跌10.6%，西部数据跌10.2%，Astera Labs跌9.8%，迈威尔科技/美满电子、Lumentum、泰瑞达、英特尔至少跌6.9%，谷歌A跌4.7%。 半导体指数跌5%，存储芯片指数维持大约9%的跌幅。 北美科技软件股指数ETF跌幅重新扩大至0.4%，美股盘初一度跌1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3135254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 04时49分]"
+        },
+        {
+          "title": "谷歌盘中跌超4%，有报道称Gemini 3.5 Pro延迟发布",
+          "url": "https://flash.jin10.com/detail/20260717032122881800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 04时49分]"
+        },
+        {
           "title": "谷歌(GOOG.O)日内跌近3%，有消息称谷歌Gemini 3.5 Pro推迟发布。",
           "url": "https://flash.jin10.com/detail/20260717022948795800",
           "source": "金十数据",
@@ -54,15 +67,16 @@
           "time_info": "[02时56分 ~ 03时57分]"
         },
         {
-          "title": "谷歌盘中跌超4%，有报道称Gemini 3.5 Pro延迟发布",
-          "url": "https://flash.jin10.com/detail/20260717032122881800",
-          "source": "金十数据",
+          "title": "谷歌母公司Alphabet（谷歌A）重挫5%刷新日低，报道称谷歌Gemini模型将推迟发布。",
+          "url": "https://wallstreetcn.com/livenews/3135246",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            10,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 04时49分]"
         },
         {
           "title": "报道：谷歌Gemini旗舰模型发布推迟，技术能力未达预期目标",
@@ -76,15 +90,15 @@
           "time_info": "02时56分"
         },
         {
-          "title": "谷歌母公司Alphabet（谷歌A）重挫5%刷新日低，报道称谷歌Gemini模型将推迟发布。",
-          "url": "https://wallstreetcn.com/livenews/3135246",
+          "title": "谷歌A收跌4.4%，市值蒸发2000亿美元。 标普500指数的11个板块中，日用品板块收涨2.9%，保健、房地产板块至少涨2.1%，能源板块涨1%，信息技术/可选消费板块跌1.77%，电信板块跌2.85%。 在标普500指数的所有成分股里，谷歌A跌幅靠前，在标普电信板块，谷歌A跌幅仅次于回声星通信（ECHO）——后者收跌5.21%。",
+          "url": "https://wallstreetcn.com/livenews/3135262",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时57分"
+          "time_info": "04时49分"
         },
         {
           "title": "谷歌Gemini 3.5 Pro交付进度落后计划数月，因技术能力未达预期目标",
@@ -189,8 +203,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 03时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时49分]"
         },
         {
           "title": "梁文锋打新长鑫科技",
@@ -201,8 +215,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 03时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时49分]"
         }
       ]
     },
