@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T05:57:13.133751+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-07-17T07:50:35.359085+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时50分]"
         },
         {
           "title": "谷歌A跌幅扩大至2.7%。",
@@ -201,11 +201,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时50分]"
         },
         {
           "title": "梁文锋打新长鑫科技",
@@ -216,8 +217,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时50分]"
         }
       ]
     },
@@ -246,6 +247,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "娱乐",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "广西横州倡议：减少不必要娱乐活动",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%A8%AA%E5%B7%9E%E5%80%A1%E8%AE%AE%EF%BC%9A%E5%87%8F%E5%B0%91%E4%B8%8D%E5%BF%85%E8%A6%81%E5%A8%B1%E4%B9%90%E6%B4%BB%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         }
       ]
     }
