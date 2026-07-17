@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T07:50:35.359085+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-07-17T09:47:17.716266+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时57分 ~ 04时49分]"
+        },
+        {
+          "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
+          "url": "https://www.cls.cn/detail/2428944",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
         },
         {
           "title": "谷歌盘中跌超4%，有报道称Gemini 3.5 Pro延迟发布",
@@ -202,11 +213,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 09时47分]"
         },
         {
           "title": "梁文锋打新长鑫科技",
@@ -259,11 +271,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%A8%AA%E5%B7%9E%E5%80%A1%E8%AE%AE%EF%BC%9A%E5%87%8F%E5%B0%91%E4%B8%8D%E5%BF%85%E8%A6%81%E5%A8%B1%E4%B9%90%E6%B4%BB%E5%8A%A8",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 09时47分]"
         }
       ]
     }
