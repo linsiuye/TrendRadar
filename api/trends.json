@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T15:11:44.122345+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2026-07-17T17:49:42.281864+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
@@ -224,11 +224,12 @@
           "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 15时11分]"
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 17时49分]"
         },
         {
           "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
@@ -259,8 +260,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 15时11分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 17时49分]"
         },
         {
           "title": "梁文锋打新长鑫科技",
