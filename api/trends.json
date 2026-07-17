@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T19:15:53.816889+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-07-17T21:04:57.781681+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
@@ -209,6 +209,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 21时04分]"
+        },
+        {
           "title": "OpenAI董事长：IPO时间暂无最新消息",
           "url": "https://flash.jin10.com/detail/20260717004805940800",
           "source": "金十数据",
@@ -218,18 +231,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
-          "url": "https://wallstreetcn.com/articles/3777152",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 19时15分]"
         },
         {
           "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
@@ -249,7 +250,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         }
@@ -299,7 +300,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         }
