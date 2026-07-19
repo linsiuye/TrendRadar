@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-07-19T22:22:02.013684+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2026-07-19T23:47:22.041149+08:00",
+  "total_titles_processed": 1611,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
+          "url": "https://wallstreetcn.com/articles/3777339",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时12分 ~ 23时47分]"
+        },
+        {
+          "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
+          "url": "https://www.zhihu.com/question/2061407401308152796",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            11,
+            9,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 09时44分]"
+        },
+        {
+          "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
+          "url": "https://www.zhihu.com/question/2062188301013071138",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "用Deepseek生成战地游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Deepseek%E7%94%9F%E6%88%90%E6%88%98%E5%9C%B0%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "Kimi K3重演“DeepSeek时刻”",
+          "url": "https://www.toutiao.com/trending/7663776827566984767/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
@@ -27,11 +95,12 @@
           "ranks": [
             10,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时59分 ~ 22时22分]"
+          "appearance_count": 7,
+          "time_info": "[15时59分 ~ 23时47分]"
         },
         {
           "title": "金十数据整理：下周重要事件与数据预告——欧央行利率决议，谷歌、英特尔、特斯拉等科技股财报密集来袭",
@@ -40,7 +109,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -54,52 +123,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
-          "url": "https://wallstreetcn.com/articles/3777339",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时12分 ~ 22时22分]"
-        },
-        {
-          "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
-          "url": "https://www.zhihu.com/question/2061407401308152796",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            11,
-            9,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 09时44分]"
-        },
-        {
-          "title": "Kimi K3重演“DeepSeek时刻”",
-          "url": "https://www.toutiao.com/trending/7663776827566984767/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
         }
       ]
     },
@@ -131,11 +154,12 @@
           "source": "微博",
           "ranks": [
             11,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时54分 ~ 22时22分]"
+          "appearance_count": 5,
+          "time_info": "[20时54分 ~ 23时47分]"
         }
       ]
     }
