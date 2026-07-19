@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T17:51:17.422146+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-07-19T19:05:18.289260+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时12分 ~ 17时51分]"
+          "appearance_count": 5,
+          "time_info": "[13时12分 ~ 19时05分]"
         },
         {
           "title": "Kimi K3重演“DeepSeek时刻”",
@@ -71,11 +71,12 @@
           "url": "https://wallstreetcn.com/articles/3777171",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时59分 ~ 17时51分]"
+          "appearance_count": 4,
+          "time_info": "[15时59分 ~ 19时05分]"
         }
       ]
     },
