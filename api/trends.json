@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T13:12:37.269773+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2026-07-19T15:59:23.732056+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "url": "https://wallstreetcn.com/articles/3777339",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 15时59分]"
         },
         {
           "title": "Kimi K3重演“DeepSeek时刻”",
@@ -49,7 +50,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
@@ -63,6 +64,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时45分 ~ 07时43分]"
+        },
+        {
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         }
       ]
     },
