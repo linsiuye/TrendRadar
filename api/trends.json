@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T09:44:47.544818+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2026-07-19T13:12:37.269773+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
@@ -22,6 +22,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时45分 ~ 09时44分]"
+        },
+        {
+          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
+          "url": "https://wallstreetcn.com/articles/3777339",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         },
         {
           "title": "Kimi K3重演“DeepSeek时刻”",
