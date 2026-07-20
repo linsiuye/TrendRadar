@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-07-20T10:01:09.487158+08:00",
-  "total_titles_processed": 824,
-  "failed_sources": [
-    "zhihu"
-  ],
+  "generated_at": "2026-07-20T13:41:12.485442+08:00",
+  "total_titles_processed": 1029,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
@@ -56,17 +54,18 @@
           "url": "https://wallstreetcn.com/articles/3777171",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 13时41分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
@@ -82,6 +81,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时44分 ~ 07时48分]"
+        },
+        {
+          "title": "OpenAI称Kimi开源是减速主义",
+          "url": "https://s.weibo.com/weibo?q=OpenAI%E7%A7%B0Kimi%E5%BC%80%E6%BA%90%E6%98%AF%E5%87%8F%E9%80%9F%E4%B8%BB%E4%B9%89&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
         }
       ]
     }
