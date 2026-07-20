@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T21:48:51.789820+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2026-07-20T23:46:15.347104+08:00",
+  "total_titles_processed": 1648,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -48,7 +48,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -59,7 +59,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -70,7 +70,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         }
@@ -78,7 +78,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
@@ -110,11 +110,23 @@
           "url": "https://www.zhihu.com/question/2059057378591613636",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时37分 ~ 23时46分]"
+        },
+        {
+          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
+          "url": "https://www.zhihu.com/question/2061575313973416591",
+          "source": "知乎",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时37分 ~ 21时48分]"
+          "time_info": "[23时45分 ~ 23时46分]"
         }
       ]
     },
@@ -148,6 +160,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时40分 ~ 16时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "娱乐",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "娱乐圈的“活化石”走了",
+          "url": "https://www.toutiao.com/trending/7664602693855366675/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时45分 ~ 23时46分]"
         }
       ]
     }
