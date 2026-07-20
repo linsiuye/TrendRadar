@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-07-20T07:48:10.755804+08:00",
-  "total_titles_processed": 663,
-  "failed_sources": [],
+  "generated_at": "2026-07-20T10:01:09.487158+08:00",
+  "total_titles_processed": 824,
+  "failed_sources": [
+    "zhihu"
+  ],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
@@ -12,11 +14,12 @@
           "url": "https://wallstreetcn.com/articles/3777339",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 10时01分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
@@ -35,7 +38,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
@@ -47,6 +50,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时44分 ~ 07时48分]"
+        },
+        {
+          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 10时01分]"
         }
       ]
     },
