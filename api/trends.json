@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T06:47:09.409618+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-07-21T07:48:13.910321+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,24 @@
             15,
             13,
             8,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时26分 ~ 06时47分]"
+          "appearance_count": 9,
+          "time_info": "[01时26分 ~ 07时48分]"
+        },
+        {
+          "title": "如何看待追光总裁称《三国第一部：争洛阳》以曹操为主角，是参考了 DeepSeek 的建议?",
+          "url": "https://www.zhihu.com/question/2061868472049652679",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时46分 ~ 07时48分]"
         },
         {
           "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
@@ -31,17 +44,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 01时27分]"
-        },
-        {
-          "title": "如何看待追光总裁称《三国第一部：争洛阳》以曹操为主角，是参考了 DeepSeek 的建议?",
-          "url": "https://www.zhihu.com/question/2061868472049652679",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 06时47分]"
         }
       ]
     },
