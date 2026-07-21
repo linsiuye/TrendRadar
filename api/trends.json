@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T18:16:04.958715+08:00",
-  "total_titles_processed": 1286,
+  "generated_at": "2026-07-21T20:20:58.941577+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
@@ -24,6 +24,19 @@
           "time_info": "[01时26分 ~ 09时44分]"
         },
         {
+          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
+          "url": "https://www.zhihu.com/question/2062579631564093084",
+          "source": "知乎",
+          "ranks": [
+            19,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 20时20分]"
+        },
+        {
           "title": "如何看待追光总裁称《三国第一部：争洛阳》以曹操为主角，是参考了 DeepSeek 的建议?",
           "url": "https://www.zhihu.com/question/2061868472049652679",
           "source": "知乎",
@@ -36,16 +49,15 @@
           "time_info": "[06时46分 ~ 07时48分]"
         },
         {
-          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
-          "url": "https://www.zhihu.com/question/2062579631564093084",
-          "source": "知乎",
+          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
+          "url": "https://wallstreetcn.com/articles/3777510",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时33分 ~ 18时16分]"
+          "time_info": "[18时15分 ~ 20时20分]"
         },
         {
           "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
@@ -57,17 +69,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 01时27分]"
-        },
-        {
-          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
-          "url": "https://wallstreetcn.com/articles/3777510",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
         }
       ]
     },
@@ -96,8 +97,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 18时16分]"
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 20时20分]"
         },
         {
           "title": "贝莱德(BLK.N)、Carhartt、福特汽车(F.N)、谷歌(GOOG.O)联合推出新联盟，旨在扩大技能劳动力培训。",
@@ -106,7 +107,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -148,11 +149,12 @@
           "ranks": [
             6,
             10,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时59分 ~ 18时16分]"
+          "appearance_count": 6,
+          "time_info": "[12时59分 ~ 20时20分]"
         }
       ]
     },
