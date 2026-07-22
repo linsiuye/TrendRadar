@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T02:03:50.380323+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-07-23T04:07:34.451607+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时07分]"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时07分]"
         },
         {
           "title": "OpenAI：将向国家实验室和大学中约2000名“创世使命”研究人员提供400万美元的Codex访问权限。",
@@ -53,6 +53,19 @@
           "time_info": "00时16分"
         },
         {
+          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
+          "url": "https://www.zhihu.com/question/2063264614834336987",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时07分]"
+        },
+        {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
           "url": "https://wallstreetcn.com/articles/3777627",
           "source": "华尔街见闻",
@@ -60,20 +73,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时03分]"
-        },
-        {
-          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
-          "url": "https://www.zhihu.com/question/2063264614834336987",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时07分]"
         },
         {
           "title": "OpenAI遭遇史上首次评测失控事故",
@@ -83,8 +84,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时07分]"
         },
         {
           "title": "OpenAI：将承诺提供300万美元的API支持，用于两项大规模科学活动，以针对重大科学挑战测试前沿模型。",
@@ -111,19 +112,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时07分]"
         },
         {
           "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
           "url": "https://www.zhihu.com/question/2063241470010822764",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时07分]"
         }
       ]
     },
@@ -139,8 +141,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时07分]"
         },
         {
           "title": "Reddit股价大跌，媒体报道称其可能限制谷歌访问权限",
