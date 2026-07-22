@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T07:49:13.339879+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-07-22T09:44:00.072611+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 09时44分]"
         },
         {
           "title": "OpenAI表示，Hugging Face遭遇的安全漏洞事件是由其旗下一个模型导致的。（Axios）",
@@ -111,7 +112,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
@@ -136,6 +137,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时53分 ~ 06时58分]"
+        },
+        {
+          "title": "谷歌财报前夜，德银力挺：别光盯着Capex，真正的惊喜可能来自谷歌云",
+          "url": "https://wallstreetcn.com/articles/3777555",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 09时44分]"
         },
         {
           "title": "Alphabet旗下谷歌公司推出Gemini 3.6 Flash，3.5 Flash-LITE、以及3.5 Flash Cyber。 目前，Gemini 3.5 Pro处于与合作伙伴的测试过程中。",
@@ -174,8 +186,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 09时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抽象",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "游戏树恨你太抽象了",
+          "url": "https://www.douyin.com/hot/2580256",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 09时44分]"
         }
       ]
     }
