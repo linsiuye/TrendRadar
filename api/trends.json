@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T13:12:04.719687+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2026-07-24T16:08:11.924437+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
@@ -99,7 +99,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         }
@@ -107,8 +107,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
+        },
         {
           "title": "新晋菲尔兹奖得主宣布加入OpenAI",
           "url": "https://www.toutiao.com/trending/7665911607725149738/",
@@ -119,6 +130,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时11分 ~ 13时12分]"
+        },
+        {
+          "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E6%99%8B%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E5%BD%93%E5%A4%A9%E5%AE%A3%E5%B8%83%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
         },
         {
           "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
