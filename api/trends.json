@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T06:53:01.825160+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-07-28T07:57:04.215821+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 07时57分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -45,8 +45,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 07时57分]"
         },
         {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
@@ -55,7 +55,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         }
@@ -87,11 +87,12 @@
           "url": "https://www.douyin.com/hot/2587213",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 06时53分]"
+          "appearance_count": 4,
+          "time_info": "[06时52分 ~ 07时57分]"
         }
       ]
     }
