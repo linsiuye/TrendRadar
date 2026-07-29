@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T13:01:54.469021+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-07-29T15:45:25.947753+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
@@ -69,7 +69,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -91,7 +91,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -102,7 +102,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -175,6 +175,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时19分 ~ 13时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抽象",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "太抽象,伪史论者线下逼拆古迹",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356605&amp;topic_name=%E5%A4%AA%E6%8A%BD%E8%B1%A1%2C%E4%BC%AA%E5%8F%B2%E8%AE%BA%E8%80%85%E7%BA%BF%E4%B8%8B%E9%80%BC%E6%8B%86%E5%8F%A4%E8%BF%B9",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         }
       ]
     }
