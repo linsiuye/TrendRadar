@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-07-30T09:24:49.388485+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2026-07-30T12:49:07.671169+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 12时49分]"
+        },
+        {
+          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
+          "url": "https://www.zhihu.com/question/2065729146383071132",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
         {
           "title": "OpenAI首席财务官：公司7月份的年化收入已经超过了整个第二季度的总和。",
           "url": "https://flash.jin10.com/detail/20260730071758962800",
@@ -28,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
-        },
-        {
-          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
-          "url": "https://www.zhihu.com/question/2065583157664018461",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
         },
         {
           "title": "Analog Devices Inc.（ADI）：漏洞与OpenAI无关。",
@@ -123,11 +135,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356605&amp;topic_name=%E5%A4%AA%E6%8A%BD%E8%B1%A1%2C%E4%BC%AA%E5%8F%B2%E8%AE%BA%E8%80%85%E7%BA%BF%E4%B8%8B%E9%80%BC%E6%8B%86%E5%8F%A4%E8%BF%B9",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 09时24分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 12时49分]"
         }
       ]
     }
