@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T12:49:07.671169+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-07-30T15:28:34.495159+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 15时28分]"
         },
         {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
           "url": "https://www.zhihu.com/question/2065729146383071132",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 15时28分]"
         },
         {
           "title": "OpenAI首席财务官：公司7月份的年化收入已经超过了整个第二季度的总和。",
