@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T09:51:53.212347+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-07-31T13:26:28.132267+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
@@ -20,24 +20,25 @@
           "time_info": "[01时16分 ~ 07时08分]"
         },
         {
+          "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
+          "url": "https://www.cls.cn/detail/2442077",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 13时26分]"
+        },
+        {
           "title": "如何看待 OpenAI 将 GPT-5.6Luna 和 Terra 价格大幅度下调？大模型会进入价格战时代吗？",
           "url": "https://www.zhihu.com/question/2066333638568972760",
           "source": "知乎",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
-          "url": "https://www.cls.cn/detail/2442077",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -70,7 +71,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
