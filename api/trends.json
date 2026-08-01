@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T20:58:47.996928+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2026-08-01T22:25:33.885035+08:00",
+  "total_titles_processed": 1442,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2066223484309434997",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时03分 ~ 20时58分]"
+          "appearance_count": 7,
+          "time_info": "[16时03分 ~ 22时25分]"
         },
         {
           "title": "DeepSeek V4 Flash正式版强在哪",
@@ -131,8 +132,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时56分 ~ 20时58分]"
+          "appearance_count": 4,
+          "time_info": "[19时56分 ~ 22时25分]"
         },
         {
           "title": "DeepSeekV4Flash 便宜",
