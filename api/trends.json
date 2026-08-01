@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-01T18:27:59.759201+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-08-01T19:57:16.492877+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时03分 ~ 19时57分]"
+        },
         {
           "title": "DeepSeek V4 Flash正式版强在哪",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
@@ -38,17 +49,6 @@
           "time_info": "[01时20分 ~ 06时55分]"
         },
         {
-          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2066223484309434997",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时03分 ~ 18时27分]"
-        },
-        {
           "title": "实测DeepSeek V4 Flash",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
           "source": "bilibili 热搜",
@@ -59,8 +59,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 18时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 19时57分]"
         },
         {
           "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
@@ -71,8 +71,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 18时27分]"
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 19时57分]"
         },
         {
           "title": "DeepSeek（官方 API 接入 Agent）居然会对用户说「我去吃饭了」、「我去睡了」，为啥会这样？",
@@ -123,6 +123,17 @@
           "time_info": "[01时20分 ~ 03时09分]"
         },
         {
+          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
+          "url": "https://www.zhihu.com/question/2066595452238160814",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
+        },
+        {
           "title": "DeepSeek V4 Flash模型权重发布",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Flash",
           "source": "bilibili 热搜",
@@ -132,6 +143,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时03分 ~ 16时04分]"
+        },
+        {
+          "title": "DeepSeekV4Flash 便宜",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4Flash%20%E4%BE%BF%E5%AE%9C&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "超聚变AI Lab平台上线DeepSeek-V4-Flash正式版",
@@ -170,7 +192,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
@@ -184,8 +206,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时54分 ~ 18时27分]"
+          "appearance_count": 8,
+          "time_info": "[07时54分 ~ 19时57分]"
+        },
+        {
+          "title": "如何评价OpenAI的数学能力",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7OpenAI%E7%9A%84%E6%95%B0%E5%AD%A6%E8%83%BD%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "美媒：OpenAI面临投资者担忧与竞争压力，IPO或推迟至明年",
@@ -274,6 +307,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时54分 ~ 07时54分]"
+        },
+        {
+          "title": "如何看待 OpenAI 下一代模型 Astra 大量解决数学猜想？",
+          "url": "https://www.zhihu.com/question/2066915812980560727",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "OpenAI可能会将其首次公开募股 (IPO) 推迟到明年。（华尔街日报）",
