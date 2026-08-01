@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T19:57:16.492877+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2026-08-01T20:58:47.996928+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时03分 ~ 19时57分]"
+          "appearance_count": 6,
+          "time_info": "[16时03分 ~ 20时58分]"
         },
         {
           "title": "DeepSeek V4 Flash正式版强在哪",
@@ -127,11 +127,23 @@
           "url": "https://www.zhihu.com/question/2066595452238160814",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 19时57分]"
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 20时58分]"
+        },
+        {
+          "title": "DeepSeekV4Flash 便宜",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4Flash%20%E4%BE%BF%E5%AE%9C&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 20时58分]"
         },
         {
           "title": "DeepSeek V4 Flash模型权重发布",
@@ -143,17 +155,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时03分 ~ 16时04分]"
-        },
-        {
-          "title": "DeepSeekV4Flash 便宜",
-          "url": "https://s.weibo.com/weibo?q=DeepSeekV4Flash%20%E4%BE%BF%E5%AE%9C&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "超聚变AI Lab平台上线DeepSeek-V4-Flash正式版",
@@ -206,8 +207,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时54分 ~ 19时57分]"
+          "appearance_count": 9,
+          "time_info": "[07时54分 ~ 20时58分]"
         },
         {
           "title": "如何评价OpenAI的数学能力",
