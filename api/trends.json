@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T05:45:42.486641+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-08-03T06:46:04.536065+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 06时46分]"
         },
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -29,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 06时46分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -38,11 +39,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时06分 ~ 05时45分]"
+          "appearance_count": 4,
+          "time_info": "[04时06分 ~ 06时46分]"
         }
       ]
     },
@@ -59,8 +61,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 06时46分]"
         }
       ]
     },
@@ -94,8 +96,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 06时46分]"
         }
       ]
     }
