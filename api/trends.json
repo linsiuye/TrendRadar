@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T00:08:52.535303+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-08-05T02:24:04.857311+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,24 @@
           "url": "https://www.zhihu.com/question/2067873642554156045",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时24分]"
+        },
+        {
+          "title": "中国版“生物DeepSeek”诞生",
+          "url": "https://www.toutiao.com/trending/7670182284162502194/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时24分]"
         },
         {
           "title": "疑似梁文锋早期微博被扒",
@@ -26,19 +39,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "中国版“生物DeepSeek”诞生",
-          "url": "https://www.toutiao.com/trending/7670182284162502194/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时24分]"
         },
         {
           "title": "DeepSeek斩杀了谁",
@@ -48,8 +50,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时24分]"
         }
       ]
     },
@@ -76,8 +78,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时24分]"
         }
       ]
     },
