@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T14:25:39.187874+08:00",
-  "total_titles_processed": 981,
+  "generated_at": "2026-08-04T17:34:44.234450+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "DeepSeek一天消耗了8万亿",
@@ -103,24 +103,25 @@
           "time_info": "[01时48分 ~ 06时59分]"
         },
         {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "source": "知乎",
+          "ranks": [
+            17,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时58分 ~ 17时34分]"
+        },
+        {
           "title": "DeepSeek斩杀线",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
             8,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 14时25分]"
-        },
-        {
-          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
-          "url": "https://www.zhihu.com/question/2067873642554156045",
-          "source": "知乎",
-          "ranks": [
-            17,
-            8
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -144,9 +145,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "DeepSeek低价风暴打服硅谷",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BD%8E%E4%BB%B7%E9%A3%8E%E6%9A%B4%E6%89%93%E6%9C%8D%E7%A1%85%E8%B0%B7",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "DeepSeek斩杀了谁",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         }
       ]
     },
@@ -161,11 +184,12 @@
           "ranks": [
             9,
             13,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时48分 ~ 14时25分]"
+          "appearance_count": 13,
+          "time_info": "[01时48分 ~ 17时34分]"
         },
         {
           "title": "OpenAI：我们下一代主要模型的一个内部版本，在数学和理论计算机科学领域长期未解决的开放问题上取得了10项新成果，所使用的计算成本约为按照GPT-5.6 Sol API费率计算的2000美元token费用。 我们将发布这些手稿、正式的Lean证明证书以及推理过程说明，供数学家们审查这些结果，并在相关研究思路基础上进一步发展。 这些成果涵盖球体堆积、编码理论、群论、量子复杂性、格密码学、极值组合学等领域。其中包括：证明非sofic群的存在性，以及对高维球体堆积界限取得指数级改进。",
@@ -301,7 +325,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         }
