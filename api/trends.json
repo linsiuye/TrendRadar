@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T09:41:26.532591+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-08-05T12:56:35.936257+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "DeepSeek斩杀了谁",
@@ -56,12 +56,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时08分 ~ 06时04分]"
+        },
+        {
+          "title": "DeepSeek重启融资 投前估值5000亿元",
+          "url": "https://www.toutiao.com/trending/7670354038151450166/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
+          "title": "DeepSeekV4一块钱生成的星舰",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E4%B8%80%E5%9D%97%E9%92%B1%E7%94%9F%E6%88%90%E7%9A%84%E6%98%9F%E8%88%B0&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -95,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
+          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
         },
         {
           "title": "OpenAI模型在第三方网络测试中突破安全边界",
