@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T12:56:35.936257+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2026-08-05T15:34:09.868704+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
@@ -64,7 +64,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -75,7 +75,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         }
@@ -108,6 +108,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
+          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 15时34分]"
+        },
+        {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
           "url": "https://flash.jin10.com/detail/20260805052416082800",
           "source": "金十数据",
@@ -117,17 +128,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
-        },
-        {
-          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
-          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
         },
         {
           "title": "OpenAI模型在第三方网络测试中突破安全边界",
@@ -156,6 +156,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "洗脑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "传销头目出狱后开办书院 家长被洗脑",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%A0%E9%94%80%E5%A4%B4%E7%9B%AE%E5%87%BA%E7%8B%B1%E5%90%8E%E5%BC%80%E5%8A%9E%E4%B9%A6%E9%99%A2+%E5%AE%B6%E9%95%BF%E8%A2%AB%E6%B4%97%E8%84%91",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 15时34分]"
         }
       ]
     }
