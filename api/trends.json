@@ -1,481 +1,122 @@
 {
-  "generated_at": "2026-08-06T23:14:02.068099+08:00",
-  "total_titles_processed": 1584,
+  "generated_at": "2026-08-07T07:50:43.156259+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 14,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
-          "url": "https://www.zhihu.com/question/2068628771687625392",
-          "source": "知乎",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时56分 ~ 23时14分]"
-        },
-        {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            10,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时56分 ~ 23时14分]"
-        },
-        {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时34分 ~ 23时14分]"
-        },
-        {
-          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
-          "url": "https://www.cls.cn/detail/2447135",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时34分 ~ 20时51分]"
-        },
-        {
-          "title": "DeepSeek、腾讯等获宇树科技战略配售",
-          "url": "https://www.cls.cn/detail/2447658",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 23时14分]"
-        },
-        {
-          "title": "DeepSeek拟上调API服务定价",
-          "url": "https://www.douyin.com/hot/2599312",
-          "source": "抖音",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 19时04分]"
-        },
-        {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时15分]"
-        },
-        {
-          "title": "DeepSeek API即将大幅涨价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+API%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
-          "title": "DeepSeek拟调高API价格",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时34分 ~ 20时51分]"
-        },
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
           "url": "https://wallstreetcn.com/articles/3778857",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时13分 ~ 23时14分]"
-        },
-        {
-          "title": "DeepSeek计划大幅涨价",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%AE%A1%E5%88%92%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
-          "title": "DeepSeek、腾讯等获宇树科技战略配售",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E3%80%81%E8%85%BE%E8%AE%AF%E7%AD%89%E8%8E%B7%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E6%88%98%E7%95%A5%E9%85%8D%E5%94%AE",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
-          "title": "DeepSeek推理到一半说自己饿了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8E%A8%E7%90%86%E5%88%B0%E4%B8%80%E5%8D%8A%E8%AF%B4%E8%87%AA%E5%B7%B1%E9%A5%BF%E4%BA%86&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "DeepSeek、腾讯等获宇树科技战略配售",
-          "url": "https://wallstreetcn.com/livenews/3146020",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "谷歌将因被指滥用广告权力而在英国面临集体诉讼",
-          "url": "https://wallstreetcn.com/livenews/3145526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时15分]"
-        },
-        {
-          "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时13分 ~ 23时14分]"
-        },
-        {
-          "title": "谷歌 AI 领军人物杰夫・迪恩等离职创业，这预示着 AI 行业哪些新趋势？",
-          "url": "https://www.zhihu.com/question/2068498722300990537",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时13分 ~ 23时14分]"
-        },
-        {
-          "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。成分股中，谷歌A收跌4.03%——在标普500指数所有成分股里跌幅靠前，特斯拉、亚马逊、微软至多跌1.77%，Meta、苹果至多收涨0.52%，英伟达涨3.43%。 “超大”市值科技股指数跌1.19%，报444.40点。成分股中，除了前述个股之外，AMD收跌7.04%，高通跌3.16%，甲骨文跌0.93%，博通、Adobe、奈飞至多收涨0.86%，Salesforce涨1.04%。",
-          "url": "https://wallstreetcn.com/livenews/3145619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "谷歌母公司Alphabet提交申请，拟发行最多400亿美元的A类和C类股票。",
-          "url": "https://wallstreetcn.com/livenews/3146042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
-          "title": "谷歌A跌超5%，谷歌DeepMind负责人哈萨比斯转任主席，公司进行重大人事调整",
-          "url": "https://wallstreetcn.com/livenews/3145508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "据华尔街日报，谷歌公司首席科学家Jeff Dean离职，将创办自己的AI公司。 谷歌母公司Alphabet/谷歌A（GOOGL）跌幅扩大之1.5%，刷新日低。",
-          "url": "https://wallstreetcn.com/livenews/3145502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "谷歌母公司Alphabet启动10部分美元投资级债券发行。",
-          "url": "https://wallstreetcn.com/livenews/3146031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
-          "title": "Demis Hassabis辞去谷歌公司Deepmind首席执行官（CEO）职务，将担任主席。 谷歌母公司Alphabet任命Koray Kavukcouglu为Deepmind的高级副总裁（SVP）。",
-          "url": "https://wallstreetcn.com/livenews/3145501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "谷歌首席科学家Jeff Dean离职创业",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6Jeff+Dean%E7%A6%BB%E8%81%8C%E5%88%9B%E4%B8%9A",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
-          "url": "https://www.zhihu.com/question/2068265537105302957",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 07时50分]"
-        },
-        {
-          "title": "怎么看 OpenAI 工程师说「现在大多数大型实验室成员几乎不看论文，因为大部分都是欺诈」？",
-          "url": "https://www.zhihu.com/question/2068662948407546390",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时13分 ~ 23时14分]"
-        },
-        {
-          "title": "微软的AI销售主要源自OpenAI，凸显对紧密合作伙伴的依赖程度",
-          "url": "https://wallstreetcn.com/livenews/3145543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "亚马逊旗下AWS与Anthropic、OpenAI构建合作伙伴关系。 三方将围绕AWS Continuum工作流合作。",
-          "url": "https://wallstreetcn.com/livenews/3145610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "软银集团：于2026年8月安排了等值17.5亿美元的杠杆收购（LBO）融资，用于支付收购ABB Ltd机器人业务的部分款项。 于2026年8月以OpenAI股份为抵押，签订了100亿美元的贷款协议。",
-          "url": "https://wallstreetcn.com/livenews/3145865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
-          "title": "微软AI收入过半来自OpenAI 显示对合作伙伴依赖仍较高",
-          "url": "https://flash.jin10.com/detail/20260806021844852800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "报道：继OpenAI、Anthropic之后，Meta的AI模型也入侵其他公司的系统",
-          "url": "https://wallstreetcn.com/livenews/3145632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
         {
-          "title": "据微软(MSFT.O)披露的信息，OpenAI约占其人工智能销售额的70%，OpenAI在2026财年的收入达到241亿美元。",
-          "url": "https://flash.jin10.com/detail/20260806021109138800",
-          "source": "金十数据",
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
           "ranks": [
-            23
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时15分"
+          "time_info": "07时50分"
         },
         {
-          "title": "软银集团：截至三月底OpenAI持股估值未发生变化。",
-          "url": "https://flash.jin10.com/detail/20260806145401696800",
-          "source": "金十数据",
+          "title": "DeepSeek、腾讯等获宇树科技战略配售",
+          "url": "https://www.cls.cn/detail/2447658",
+          "source": "财联社热门",
           "ranks": [
-            23
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时34分"
+          "time_info": "07时50分"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
+          "url": "https://www.zhihu.com/question/2068631767326660517",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         }
       ]
     },
     {
       "keyword_group": "抽象",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "好评如潮!男高凑钱自制抽象神游",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356811&amp;topic_name=%E5%A5%BD%E8%AF%84%E5%A6%82%E6%BD%AE%21%E7%94%B7%E9%AB%98%E5%87%91%E9%92%B1%E8%87%AA%E5%88%B6%E6%8A%BD%E8%B1%A1%E7%A5%9E%E6%B8%B8",
           "source": "贴吧",
           "ranks": [
-            3,
-            5,
-            9,
-            11
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时56分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "07时50分"
         },
         {
           "title": "抽象,美国234亿造懂王战列舰",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356816&amp;topic_name=%E6%8A%BD%E8%B1%A1%2C%E7%BE%8E%E5%9B%BD234%E4%BA%BF%E9%80%A0%E6%87%82%E7%8E%8B%E6%88%98%E5%88%97%E8%88%B0",
           "source": "贴吧",
           "ranks": [
-            11,
-            15,
-            20,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时56分 ~ 23时14分]"
-        },
-        {
-          "title": "抽象点怎么了",
-          "url": "https://www.douyin.com/hot/2599459",
-          "source": "抖音",
-          "ranks": [
-            19,
-            21,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时34分 ~ 23时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "搞笑",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "《完蛋！我被男同学包围了》为什么会好评如潮，纯粹因为它是高中生玩票制作的搞笑玩梗游戏吗？",
-          "url": "https://www.zhihu.com/question/2068004843956827148",
-          "source": "知乎",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时04分 ~ 23时14分]"
-        },
-        {
-          "title": "天津市民有多搞笑?",
-          "url": "https://www.zhihu.com/question/378849971",
-          "source": "知乎",
-          "ranks": [
-            5
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时34分"
+          "time_info": "07时50分"
         }
       ]
     }
