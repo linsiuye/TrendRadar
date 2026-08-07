@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T02:40:33.720918+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-08-08T03:45:31.127891+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "梁文锋 只想用座机",
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 03时45分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -27,8 +28,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 03时45分]"
+        },
+        {
+          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
         }
       ]
     },
@@ -45,8 +57,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 03时45分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
