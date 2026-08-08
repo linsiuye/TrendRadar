@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T14:35:29.699623+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-08-08T15:41:35.635014+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
@@ -36,8 +36,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时45分 ~ 14时35分]"
+          "appearance_count": 15,
+          "time_info": "[03时45分 ~ 15时41分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -56,11 +56,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时52分 ~ 14时35分]"
+          "appearance_count": 6,
+          "time_info": "[08时52分 ~ 15时41分]"
         },
         {
           "title": "梁文锋为什么投王兴兴",
@@ -147,8 +148,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 14时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 15时41分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
