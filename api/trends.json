@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-08-10T08:58:27.935215+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-08-10T11:09:25.003302+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国AI大模型调用量连续十五周领跑 DeepSeek-V4-Flash正式版登顶",
+          "url": "https://flash.jin10.com/detail/20260810102929259800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/linsiuye/TrendRadar/img/news.jpg"
 }
