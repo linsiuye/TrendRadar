@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T15:11:10.660312+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-08-10T17:08:00.878903+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek会偷偷给人取外号",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时10分 ~ 15时11分]"
+        },
+        {
+          "title": "DeepSeek为何重启融资",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BD%95%E9%87%8D%E5%90%AF%E8%9E%8D%E8%B5%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
         },
         {
           "title": "中国AI大模型调用量连续十五周领跑 DeepSeek-V4-Flash正式版登顶",
@@ -41,11 +52,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 15时11分]"
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 17时08分]"
         }
       ]
     }
