@@ -1,47 +1,8 @@
 {
-  "generated_at": "2026-08-10T23:51:20.209639+08:00",
-  "total_titles_processed": 1753,
+  "generated_at": "2026-08-11T00:43:53.341677+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DeepSeek会偷偷给人取外号",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时10分 ~ 15时11分]"
-        },
-        {
-          "title": "DeepSeek为何重启融资",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BD%95%E9%87%8D%E5%90%AF%E8%9E%8D%E8%B5%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 17时08分]"
-        },
-        {
-          "title": "中国AI大模型调用量连续十五周领跑 DeepSeek-V4-Flash正式版登顶",
-          "url": "https://flash.jin10.com/detail/20260810102929259800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        }
-      ]
-    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
@@ -51,15 +12,11 @@
           "url": "https://wallstreetcn.com/articles/3779038",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            4,
-            3,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时17分 ~ 23时51分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         }
       ]
     },
@@ -72,13 +29,11 @@
           "url": "https://www.toutiao.com/trending/7671965928308883497/",
           "source": "今日头条",
           "ranks": [
-            22,
-            12,
-            29
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时58分 ~ 20时44分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         }
       ]
     }
