@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T03:48:47.818305+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-08-11T04:33:33.339207+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "01时44分"
         },
         {
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时33分]"
+        },
+        {
           "title": "美国得克萨斯州州长阿博特：OpenAI已经作出承诺，会严格遵循当地数据中心的相关规范标准。",
           "url": "https://flash.jin10.com/detail/20260811021755846800",
           "source": "金十数据",
@@ -28,18 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
-        },
-        {
-          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
-          "url": "https://wallstreetcn.com/articles/3779038",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时48分]"
         },
         {
           "title": "美国得州州长Abbott：OpenAI承诺将遵守本地数据中心标准。",
@@ -151,7 +151,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         }
@@ -185,11 +185,12 @@
           "source": "今日头条",
           "ranks": [
             28,
-            29
+            29,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 03时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 04时33分]"
         }
       ]
     }
