@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T13:25:09.769587+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-08-12T15:08:56.364813+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时47分 ~ 13时25分]"
+        },
+        {
+          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 15时08分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
@@ -48,17 +60,6 @@
           "time_info": "[09时03分 ~ 11时56分]"
         },
         {
-          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
           "title": "Chatgpt把Deepseek当宿敌了",
           "url": "https://s.weibo.com/weibo?q=Chatgpt%E6%8A%8ADeepseek%E5%BD%93%E5%AE%BF%E6%95%8C%E4%BA%86&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -76,7 +77,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
