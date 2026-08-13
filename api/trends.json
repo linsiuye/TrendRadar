@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T05:36:05.726860+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-08-14T06:32:42.752332+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 05时36分]"
-        },
-        {
-          "title": "DeepSeek API确认涨价",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 06时32分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -37,19 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 05时36分]"
-        },
-        {
-          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
-          "url": "https://wallstreetcn.com/articles/3779377",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 06时32分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -59,19 +37,56 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 06时32分]"
+        },
+        {
+          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
+          "url": "https://wallstreetcn.com/articles/3779377",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 06时32分]"
+        },
+        {
+          "title": "DeepSeek API确认涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 06时32分]"
+        },
+        {
+          "title": "DeepSeek官方Agent发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 06时32分]"
         },
         {
           "title": "DeepSeek Harness发布",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 06时32分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -81,8 +96,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 06时32分]"
+        },
+        {
+          "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
+          "url": "https://www.zhihu.com/question/2071348486667237276",
+          "source": "知乎",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 06时32分]"
+        },
+        {
+          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+          "url": "https://www.zhihu.com/question/2071189146777773055",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 06时32分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -96,37 +135,54 @@
           "time_info": "[05时35分 ~ 05时36分]"
         },
         {
-          "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
-          "url": "https://www.zhihu.com/question/2071348486667237276",
-          "source": "知乎",
+          "title": "DeepSeek Harness公测",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+Harness%E5%85%AC%E6%B5%8B",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI 上市前年化营收突破 400 亿美元",
+          "url": "https://wallstreetcn.com/livenews/3149336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "据悉OpenAI年化营收突破400亿美元",
+          "url": "https://flash.jin10.com/detail/20260814055506381800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 05时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
         },
         {
-          "title": "DeepSeek官方Agent发布",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
+          "title": "市场消息：OpenAI年化营收在IPO前已突破400亿美元。",
+          "url": "https://flash.jin10.com/detail/20260814053819730800",
+          "source": "金十数据",
           "ranks": [
-            14
+            20
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 05时36分]"
-        },
-        {
-          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
-          "url": "https://www.zhihu.com/question/2071189146777773055",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 05时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
         }
       ]
     },
@@ -142,8 +198,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 06时32分]"
         },
         {
           "title": "为什么娱乐圈这么多人得强直性脊柱炎",
@@ -153,8 +209,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 06时32分]"
         }
       ]
     },
@@ -169,7 +225,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         }
