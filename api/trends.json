@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-17T12:33:16.184398+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-08-17T14:34:05.072741+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek正式涨价",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 14时34分]"
         },
         {
           "title": "如何评价 deepseek8 月 17 日涨价后，opencode go 套餐的 flash 模型调用量削减 94%？",
@@ -40,6 +41,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时39分 ~ 12时33分]"
+        },
+        {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 14时34分]"
         },
         {
           "title": "博主：DeepSeek要当全球Agent的底座",
@@ -78,7 +90,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -133,11 +145,12 @@
           "url": "https://wallstreetcn.com/articles/3779533",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 14时34分]"
         },
         {
           "title": "OpenAI 人事地震",
@@ -149,6 +162,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时32分 ~ 12时33分]"
+        },
+        {
+          "title": "OpenAI CEO：大学读两年就够了",
+          "url": "https://www.baidu.com/s?wd=OpenAI+CEO%EF%BC%9A%E5%A4%A7%E5%AD%A6%E8%AF%BB%E4%B8%A4%E5%B9%B4%E5%B0%B1%E5%A4%9F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 14时34分]"
         }
       ]
     },
@@ -188,8 +212,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时39分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[08时39分 ~ 14时34分]"
         }
       ]
     },
@@ -205,11 +229,12 @@
             6,
             8,
             9,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 12时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 14时34分]"
         },
         {
           "title": "锐评抽象电影女版战狼",
